@@ -1,0 +1,177 @@
+
+What is Smart Azan?
+
+
+
+
+Say goodbye to outdated Azan clocks and limited mobile apps. Smart Azan is the world’s only solution that lets you automate the ATHAN across your home for FREE using devices like Amazon Alexa, Google Nest, Fire TV, and more. Unlike phone apps that only play Azan on your phone with restrictions, Smart Azan gives you the freedom to broadcast Azan throughout your home with HD sound quality, smart speaker grouping, and cloud-based accuracy. Best of all, Smart Azan is completely FREE and easy to set up, bringing convenience and tradition together like never before.
+
+
+
+
+
+
+
+
+What's the difference between Google & Alexa Speaker Solution?
+
+
+
+
+Google Speakers require your phone to be connected to the same Wi-Fi network to play the Azan at the scheduled times. In contrast, Alexa devices do not depend on a Wi-Fi connection to your phone and can play the Azan even if your phone is turned off. Additionally, Google Speakers rely on a mobile app to function, whereas Alexa offers a web-based, one-time setup solution, making it more convenient for users who prefer not to rely on their phones for their smart speaker's functionality.
+
+
+
+
+
+
+
+I followed all the step's for alexa, athan is not playing on my alexa speaker's. (Alexa)?
+
+
+
+
+
+Please make sure you have enabled the Routine correctly within Alexa App.
+Please make sure you are using same Amazon Account for Alexa App and SmartAzan.com/Alexa
+Sometimes disabling and re-enabling the skill solves a lot of issues.
+Athan will not play if your Alexa device is in kids mode.
+If you change your Amazon password or address, you must disable and re-enable the skill.
+If the Smart Azan skill doesn’t appear when you're creating the routine, try using the Custom action option. Simply select it, then type "Open Smart Azan" to activate the skill.
+If the Azan or Surah did not play as expected, please perform a Connection Test with Alexa by visiting Connect with Alexa and try playing the Azan /Surah again.
+Supported languages for speakers are english, german, french, arabic & us spanish.
+if you hear a beep or doorbell sound instead of athan then, open your Alexa App and choose the Devices icon in the lower right part of the screen. Next choose All Devices and scroll through the list to find your Smart Azan device, select it, then switch the Doorbell Press Announcements slider to the off position. [Video]
+if you get error Unable to link accounts. Your Alexa app needs an update, then try to enable the SmartAzan Skill through Chrome Browser. Visit Amazon website & search for smart azan skill then enable it)
+
+
+
+
+
+
+
+
+
+Can I Play Adhan when my Phone is on Off / Different Wifi (Google)?
+
+
+
+
+No. For Google Speaker's Your Phone needs to be powered-on and on same same wifi.
+(Advance Users can setup a VPN to play Adhan even when not on same wifi using IP ADDRESS)
+However, Alexa, its fully cloud based solution. You dont need your phone or wifi connection for it to work. you just need a Web Browser to do the setup (once).
+
+
+
+
+
+
+
+
+My Mobile App Cannot Find any Smart Speakers (Google)?
+
+
+
+
+
+Make Sure Your Phone and Smart Speakers are on SAME WIFI
+Reboot your Phone & Google Speaker's'
+Check your Router settings if you are using wifi-mesh system or multiple access points.
+Try Adding the IP Address of your Smart Speaker Instead.
+Try SmartAzan Pro App instead (For Android)
+
+
+
+
+
+
+
+
+
+
+
+How do i find my Google Smart Speaker's IP Address (Google)?
+
+
+
+
+
+Simply say, 'Hey Google, what's my IP address,' or follow the steps below to locate the IP
+Open the Google Home app.
+Touch and hold your device's tile.
+At the top right, tap Settings, Then Device information.
+The IP Address should be listed under Technical information. If it’s not, check the device's Wi-FI connection/Router Setting's'.
+
+
+
+
+
+
+
+
+
+
+
+My Computers needs to be on all the time?(Windows)?
+
+
+
+
+Yes, however you can enable the sleep mode and Adhan will still play. Click here for more info.
+
+
+
+
+
+
+
+Can I play Athan on multiple Google Nest/Hub Speakers? (Google)?
+
+
+
+
+Yes, You can Group Multiple speakers using Google Home App. Click here for more info.
+
+
+
+
+
+
+
+Can I play Athan on multiple Alexa Speakers? (Alexa)?
+
+
+
+
+Yes, create multiple routines with the same step's, however each routine needs to have its own speaker selected.
+
+
+
+
+
+
+
+
+Athan times are not correct, can I adjust Athan Times?
+
+
+
+
+Alexa Users: Log in to SmartAzan.com/alexa and click on the Settings Gear icon in the upper left corner. Then, tap on "Customize Athan Settings.", or simply Click here to adjust Athan Times.
+Google Users: Open your Android App and click on the Settings Gear to Adjust Times.
+
+
+
+
+
+
+
+
+How can I disable the message/ad that plays after the Athan or Support the project?
+
+
+
+
+Google Users: Open Your Android App, Tap the 3 dots in the upper right corner and then tap 'Unlock Features.' This will remove the message, and you will also have the option to play Dua after the Athan. Make sure your app is updated.
+Alexa Users: We are working on adding premium features. Not only will you be able to disable the message, but more features will be available in the near future. Until we finalize the subscription model, all Alexa users can enjoy an ad-free experience.
+
+Please Support Us here if you are feeling generous.
